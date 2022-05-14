@@ -1,0 +1,4 @@
+com\thanhsaclo\bookstore\ws\BookWS.class
+com\thanhsaclo\bookstore\dao\Book.class
+com\thanhsaclo\bookstore\dao\BookDAO.class
+com\thanhsaclo\bookstore\util\DBUtil.class
